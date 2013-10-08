@@ -8,4 +8,3 @@ kWatch
 - Our system consists of a Loadable Kernel Module (LKM) to track modified files and a user level program to track/untrack directories
 
 - Used C, LKM programming, kernel debugging
-=======
